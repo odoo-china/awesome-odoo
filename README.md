@@ -1,8 +1,8 @@
-Awesome Odoo
+Odoo资源精选
 ============
 
-A curated list of awesome Odoo resources.
-*Inspired by [awesome-python](https://github.com/vinta/awesome-python), itself inspired by  [awesome-php](https://github.com/ziadoz/awesome-php).*
+Odoo资源精选列表
+*Inspired by [awesome-python](https://github.com/vinta/awesome-python), itself inspired by  [awesome-php](https://github.com/ziadoz/awesome-php).*
 
 Contributions are welcome - check the [guidelines](CONTRIBUTING.md).
 
